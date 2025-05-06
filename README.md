@@ -1,6 +1,9 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 ![Platform](https://img.shields.io/badge/Platform-Raspberry_Pi_Pico-orange.svg)
+[![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+![I2C](https://img.shields.io/badge/Interface-I2C-lightgrey.svg)
+[![Build](https://img.shields.io/badge/Build-CMake%20%2B%20Make-success.svg)](https://cmake.org/)
+
 
 # VEML7700 Library for Raspberry Pi Pico
 
