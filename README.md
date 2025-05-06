@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+![Platform](https://img.shields.io/badge/Platform-Raspberry_Pi_Pico-orange.svg)
+
 # VEML7700 Library for Raspberry Pi Pico
 
 A comprehensive C library for operating the **VEML7700** ambient light sensor (ALS) from Vishay Semiconductors on the **Raspberry Pi Pico (RP2040/RP2350)** microcontroller using the I2C interface.
